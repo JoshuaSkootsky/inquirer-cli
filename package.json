@@ -1,0 +1,20 @@
+{
+  "name": "inquire",
+  "version": "1.0.0",
+  "description": "command line util",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava -watch"
+  },
+  "keywords": [
+    "cmdLn"
+  ],
+  "author": "Joshua Skootsky",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^3.5.0"
+  },
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
